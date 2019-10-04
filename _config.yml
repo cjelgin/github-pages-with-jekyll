@@ -5,7 +5,7 @@ description: This site will serve as my portfolio and resume
 
 # social links
 twitter_username: your-twitter-handle
-github_username:  @cjelgin
+github_username:  "@cjelgin"
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
